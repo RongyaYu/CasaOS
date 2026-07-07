@@ -1,3 +1,18 @@
+很多人家里都有一台退役的旧电脑。
+
+电池不行了、性能跟不上了，最后只能放在角落吃灰。
+
+其实，它完全可以变成一台属于自己的家庭服务器。
+
+最近在 GitHub 上发现 CasaOS，一个特别适合新手的开源家庭云系统，一行命令就能部署，旧电脑、迷你主机、树莓派都能安装。
+
+GitHub：github.com/IceWhaleTech/C…
+
+和传统 NAS 不一样，它更像一个应用商店。Jellyfin、Immich、Nextcloud、Vaultwarden、Home Assistant、AdGuard Home 等常见应用，都可以直接一键安装，不需要自己折腾 Docker 命令和各种配置文件。
+
+很多人觉得搭家庭服务器门槛很高，其实 CasaOS 已经把绝大部分复杂操作都封装好了，浏览器里点几下就能完成部署。
+
+
 # CasaOS - Your Personal Cloud 
 <!-- Readme i18n links -->
 <!-- > English | [中文](#) | [Français](#) -->
